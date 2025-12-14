@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Body Like A Back Road (Official Lyric Video)",
+  "base_artist": "Sam Hunt",
+  "createdAt": "2025-12-14T14:50:45.424605Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Body Like A Back Road",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/01_Body_Like_A_Back_Road_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Body Like A Back Road",
+      "artist": "Epic Dark",
+      "has_synced": true,
+      "path": "select/02_Body_Like_A_Back_Road_Epic_Dark.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Body Like A Back Road",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/03_Body_Like_A_Back_Road_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Body Like a Back Road",
+      "artist": "US Billboard",
+      "has_synced": true,
+      "path": "select/04_Body_Like_a_Back_Road_US_Billboard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Body Like A Back Road",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/05_Body_Like_A_Back_Road_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Body Like A Back Road",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/06_Body_Like_A_Back_Road_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "18.Body Like A Back Road",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/07_18.Body_Like_A_Back_Road_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Body Like A Back Road",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/08_Body_Like_A_Back_Road_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Body Like A Back Road",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/09_Body_Like_A_Back_Road_Sam_Hunt.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Body Like a Back Road",
+      "artist": "Sam Hunt",
+      "has_synced": false,
+      "path": "select/pl_01_Body_Like_a_Back_Road_Sam_Hunt.txt"
+    }
+  ]
+}
